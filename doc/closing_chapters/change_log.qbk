@@ -42,6 +42,7 @@ Boost.Test releases:
 
 # [pull_request 219] Commented out unused argument name (`stack_decorator::apply`)
 # [pull_request 224] Add `BOOST_HEADER_DEPRECATED` to deprecated headers
+# [pull_request 227] Add `printf` format checking attribute to `report_error`
 
 [#ref_CHANGE_LOG_3_10][h4 Boost.Test v3.10 / boost 1.70]
 
